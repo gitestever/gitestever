@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills:
+- 🖥 See my profile at
+  
+##### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
